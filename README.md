@@ -10,7 +10,7 @@
 </ul>
 
 <h2>Project Purpose</h2>
-<p>This project was built as an academic assignment for the module <em>Information Systems</em>, where our teacher,<strong>Essaid El Bachari</strong>, tasked us with developing a pizzeria management system. The system aims to generate invoices for orders placed by customers.</p>
+<p>This project was built as an academic assignment for the module <em>Information Systems</em>, where our professor,<strong>Essaid El Bachari</strong>, tasked us with developing a pizzeria management system. The system aims to generate invoices for orders placed by customers.</p>
 
 <p>We created a comprehensive management system for <strong>Lucas Pizzeria</strong>, which includes the following features:</p>
 
