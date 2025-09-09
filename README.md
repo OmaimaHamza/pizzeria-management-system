@@ -24,6 +24,11 @@
 </ul>
 
 <p>This system integrates various operational aspects of the pizzeria to ensure smooth and efficient management.</p>
+<h2>Project Information</h2>
+<li><b>Date:</b> December 2024</li>
+<li><b>Academic Year: </b>Final year of our Bachelor's degree, Semester 5 </li>
+<li><b>Course Module:</b> Information Systems </li>
+
 <h2>Notice</h2>
 <p>Please note that the content of the application is written in French.</p>
 
